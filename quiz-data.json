@@ -1,0 +1,775 @@
+{
+  "title": "D471 PA Practice Exam",
+  "questions": [
+    {
+      "id": 1,
+      "question": "At which stage of the supply chain does a distributor operate?",
+      "choices": [
+        "Raw material sampling",
+        "Focal firm",
+        "Downstream",
+        "Second-tier upstream"
+      ],
+      "correct": "Downstream"
+    },
+    {
+      "id": 2,
+      "question": "Which technology helps with the quick production of product models and prototypes for an organization?",
+      "choices": [
+        "3D printing",
+        "Blockchain",
+        "Radio frequency identification",
+        "Robotics arm"
+      ],
+      "correct": "3D printing"
+    },
+    {
+      "id": 3,
+      "question": "What is an example of big data being utilized in a supply chain?",
+      "choices": [
+        "Global positioning systems data in logistics",
+        "Forecasting data in planning systems",
+        "Capacity data of manufacturing lines",
+        "Workforce data of assembly operation"
+      ],
+      "correct": "Global positioning systems data in logistics"
+    },
+    {
+      "id": 4,
+      "question": "In a new assembly line, workers are becoming more competent with increased production volumes and manufacturing costs are being reduced. What is this phenomenon known as?",
+      "choices": [
+        "Experience curve",
+        "Bullwhip effect",
+        "Value advantage",
+        "Postponement"
+      ],
+      "correct": "Experience curve"
+    },
+    {
+      "id": 5,
+      "question": "A healthcare company is producing large volumes of toothpaste and toothbrushes and is replenishing shelves at multiple retail stores according to forecasting. Which product positioning strategy is being used?",
+      "choices": [
+        "Assemble to order",
+        "Make to stock",
+        "Vertical integration",
+        "Make to order"
+      ],
+      "correct": "Make to stock"
+    },
+    {
+      "id": 6,
+      "question": "A furniture shop requires four of its carpenters to work in sequence to produce a table. Each carpenter has a capacity rating of one to four based on the part of the table being created. The capacity rating and process time for each carpenter is: Carpenter 1: Capacity rating = 4 Process time = 12 minutes | Carpenter 2: Capacity rating = 2 Process time = 18 minutes | Carpenter 3: Capacity rating = 1 Process time = 12.5 minutes | Carpenter 4: Capacity rating = 3 Process time = 13 minutes. Which carpenter is most likely to become a bottleneck in the production of the table?",
+      "choices": [
+        "Carpenter 1",
+        "Carpenter 2",
+        "Carpenter 3",
+        "Carpenter 4"
+      ],
+      "correct": "Carpenter 2"
+    },
+    {
+      "id": 7,
+      "question": "At a car wash, the second step of waxing the vehicle takes more time than any other step and has been identified as a bottleneck. The work required in this step has been reduced to match the time of the other steps in the process. What is this method known as according to the theory of constraints (TOC)?",
+      "choices": [
+        "Enlarging the constraint",
+        "Exchanging the constraint",
+        "Exploiting the constraint",
+        "Elevating the constraint"
+      ],
+      "correct": "Exploiting the constraint"
+    },
+    {
+      "id": 8,
+      "question": "An apparel company sources all its textiles from a facility in a city that has experienced a major hurricane. The apparel company is concerned about making its deliverables next month and is unsure what to tell its customers. Which type of supply chain risk is the apparel company facing?",
+      "choices": [
+        "Social",
+        "Environmental",
+        "Political",
+        "Reputational"
+      ],
+      "correct": "Environmental"
+    },
+    {
+      "id": 9,
+      "question": "A company wants to invest cash in a project to build a landing strip in a town so that farmers can use small, private aircraft to bring in produce each week for the farmers market. Which supply chain operations decision does the company need to focus on to minimize its risks as well as those of the community?",
+      "choices": [
+        "Manufacturing yield",
+        "Facility location",
+        "Product packaging",
+        "Quality assurance"
+      ],
+      "correct": "Facility location"
+    },
+    {
+      "id": 10,
+      "question": "A supplier of a food processing company raised concern about the unfair treatment of the company among its suppliers. The supplier produced evidence of the unfair component costing practice. Which principle of sustainability is violated in this case leading to business continuity risk?",
+      "choices": [
+        "Governance",
+        "Business relationships",
+        "Transparency",
+        "Employment practices"
+      ],
+      "correct": "Business relationships"
+    },
+    {
+      "id": 11,
+      "question": "Which technology helps facilitate visibility in the collaboration between a firm and transporters in the global supply chain?",
+      "choices": [
+        "E-auction technology",
+        "Augmented reality",
+        "Electronic data interchange",
+        "Robotics technology"
+      ],
+      "correct": "Electronic data interchange"
+    },
+    {
+      "id": 12,
+      "question": "What is a strategy used by multinational firms to counter the shifts in currency exchange rates in their global supply chains?",
+      "choices": [
+        "Adopting a faster transportation method",
+        "Leveraging a global sourcing network",
+        "Ensuring a strong demand planning process",
+        "Maximizing local manufacturing"
+      ],
+      "correct": "Leveraging a global sourcing network"
+    },
+    {
+      "id": 13,
+      "question": "A major technology company has implemented a program to take back all its end-of-life gadgets from consumers to reduce landfill waste. Which sustainability process is the company using?",
+      "choices": [
+        "Packaging",
+        "Product design",
+        "Sourcing",
+        "Process design"
+      ],
+      "correct": "Process design"
+    },
+    {
+      "id": 14,
+      "question": "Which activity helps an enterprise lessen the impact of its carbon footprint with carbon offsetting?",
+      "choices": [
+        "Supplier negotiation",
+        "Community empowerment",
+        "Employee wellness programs",
+        "Tree planting initiatives"
+      ],
+      "correct": "Tree planting initiatives"
+    },
+    {
+      "id": 15,
+      "question": "Which buying practice should internal employees use sparingly as suppliers need to be managed and directed through the sourcing function?",
+      "choices": [
+        "Purchasing through traditional sourcing channels",
+        "Purchasing directly from suppliers",
+        "Purchasing through the finance function",
+        "Purchasing from consultants"
+      ],
+      "correct": "Purchasing through the finance function"
+    },
+    {
+      "id": 16,
+      "question": "What is the formula for calculating weeks of supply?",
+      "choices": [
+        "(average weekly usage)*(average on-hand inventory)",
+        "(average on-hand inventory)*(average weekly usage)",
+        "(average on-hand inventory)-(average weekly usage)",
+        "(average on-hand inventory)/(average weekly usage)"
+      ],
+      "correct": "(average on-hand inventory)/(average weekly usage)"
+    },
+    {
+      "id": 17,
+      "question": "What is a component of supplier development?",
+      "choices": [
+        "Process improvements",
+        "Volume discounts",
+        "Supplier competition",
+        "Supplier default"
+      ],
+      "correct": "Process improvements"
+    },
+    {
+      "id": 18,
+      "question": "What is an advantage of offshoring for developed countries?",
+      "choices": [
+        "Reduces transportation costs",
+        "Reduces labor costs",
+        "Improves quality monitoring",
+        "Improves buyer-supplier relationships"
+      ],
+      "correct": "Reduces labor costs"
+    },
+    {
+      "id": 19,
+      "question": "What is an advantage of single sourcing?",
+      "choices": [
+        "Reduces supply risk",
+        "Reduces freight costs",
+        "Reduces over-reliance on suppliers",
+        "Reduces supplier disruptions"
+      ],
+      "correct": "Reduces supplier disruptions"
+    },
+    {
+      "id": 20,
+      "question": "What is a characteristic of a stable supply process?",
+      "choices": [
+        "Early-stage manufacturing processes",
+        "Rapid changes in sources of supply",
+        "Mature manufacturing processes",
+        "Changes in technology supporting supply"
+      ],
+      "correct": "Mature manufacturing processes"
+    },
+    {
+      "id": 21,
+      "question": "What is a characteristic of an evolving supply process?",
+      "choices": [
+        "Stable sources of supply",
+        "Rapidly changing sources of supply",
+        "Mature manufacturing supply process",
+        "Established technology supporting supply"
+      ],
+      "correct": "Rapidly changing sources of supply"
+    },
+    {
+      "id": 22,
+      "question": "How can a companys logistics function positively impact its return on assets (ROA)?",
+      "choices": [
+        "By reducing gross revenue",
+        "By increasing assets",
+        "By increasing infrastructure",
+        "By reducing inventory"
+      ],
+      "correct": "By reducing inventory"
+    },
+    {
+      "id": 23,
+      "question": "A logistics company charges $250 to ship a container 100 miles and $300 to ship the same size container 150 miles. What is this pricing strategy known as?",
+      "choices": [
+        "Economies of scope",
+        "Economies of distance",
+        "Economies of scale",
+        "Economies of motion"
+      ],
+      "correct": "Economies of distance"
+    },
+    {
+      "id": 24,
+      "question": "What is an example of a material handling system?",
+      "choices": [
+        "Advanced planning system",
+        "Computer-aided design (CAD) system",
+        "Conveyor belt system",
+        "Flexible manufacturing system"
+      ],
+      "correct": "Conveyor belt system"
+    },
+    {
+      "id": 25,
+      "question": "Considering the limitations of each single mode of transportation, a third-party logistics (3PL) company wants to use a multimode system to ensure the greatest percentage of on-time deliveries for its international shipping and delivery business. Which combined mode of transportation should this company use to ensure the highest percentage of on-time deliveries?",
+      "choices": [
+        "Water and rail",
+        "Water and trucking",
+        "Air and trucking",
+        "Water and air"
+      ],
+      "correct": "Air and trucking"
+    },
+    {
+      "id": 26,
+      "question": "A shampoo manufacturer embarks on a joint supplier development project to visit lavender farms in France with a core supplier. Which type of business relationship is characterized in this situation?",
+      "choices": [
+        "Transaction-based relationship",
+        "Power-based relationship",
+        "Contract-based relationship",
+        "Trust-based relationship"
+      ],
+      "correct": "Trust-based relationship"
+    },
+    {
+      "id": 27,
+      "question": "What, if anything, happens to the number and the general availability of supply vendors that companies must oversee as they move from alliances to nonstrategic transactions?",
+      "choices": [
+        "The number of supply vendors increases.",
+        "The availability of supply vendors decreases.",
+        "The number of supply vendors decreases.",
+        "The types of supply vendors available becomes fixed."
+      ],
+      "correct": "The number of supply vendors increases."
+    },
+    {
+      "id": 28,
+      "question": "A buyer pressures a supplier to decrease unit prices. Which type of buyer-supplier relationship does this exemplify?",
+      "choices": [
+        "Power-based relationship",
+        "Contract-based relationship",
+        "Coordination-based relationship",
+        "Trust-based relationship"
+      ],
+      "correct": "Power-based relationship"
+    },
+    {
+      "id": 29,
+      "question": "A buyer and supplier are in the process of developing a long-term relationship for their respective companies and are currently developing the policies and procedures for the partnership. In which phase of relationship development are the two organizations?",
+      "choices": [
+        "Introduction phase",
+        "Design phase",
+        "Management phase",
+        "Execution phase"
+      ],
+      "correct": "Design phase"
+    },
+    {
+      "id": 30,
+      "question": "An art collector with an original, one-of-a-kind antique painting done by a popular local artist is trying to decide if the painting should be sold. What is an advantage the collector has in selling the painting?",
+      "choices": [
+        "Leverage on buyers",
+        "Interest from buyers",
+        "Negotiation with buyers",
+        "Mediation with buyers"
+      ],
+      "correct": "Leverage on buyers"
+    },
+    {
+      "id": 31,
+      "question": "A buyer and a seller are in the process of negotiating the price of a piston ring, and the seller sets the initial price of the piston at $7 per unit. What does this initial set price indicate in the negotiation process?",
+      "choices": [
+        "Interest",
+        "Demand",
+        "Position",
+        "Bid"
+      ],
+      "correct": "Position"
+    },
+    {
+      "id": 32,
+      "question": "Two parties are negotiating a deal that will result in the benefit received by one party becoming a direct loss to the other party. What is this phenomenon called?",
+      "choices": [
+        "Nash game",
+        "Nonzero-sum game",
+        "Cooperative game",
+        "Zero-sum game"
+      ],
+      "correct": "Zero-sum game"
+    },
+    {
+      "id": 33,
+      "question": "Why is relationship management becoming increasingly difficult to execute in 21st-century supply chains?",
+      "choices": [
+        "Increasing complexity of supply chains",
+        "Cost-focused supply chains",
+        "Increasing number of disruptions in supply chains",
+        "Quality-focused supply chains"
+      ],
+      "correct": "Increasing complexity of supply chains"
+    },
+    {
+      "id": 34,
+      "question": "A team of buyers for an electronics company is purchasing components from another company and is stereotyping the supplier based on cultural differences. Which type of conflict exists in this situation?",
+      "choices": [
+        "Interest conflict",
+        "Structural conflict",
+        "Relationship conflict",
+        "Data conflict"
+      ],
+      "correct": "Relationship conflict"
+    },
+    {
+      "id": 35,
+      "question": "A negotiation results in a zero-sum outcome, and the benefit experienced by one party is directly disadvantageous to the other party. Which type of opportunity characterizes this process?",
+      "choices": [
+        "Integrative opportunity",
+        "Negative opportunity",
+        "Positive opportunity",
+        "Distributive opportunity"
+      ],
+      "correct": "Distributive opportunity"
+    },
+    {
+      "id": 36,
+      "question": "A business-to-business firm has been investing heavily to improve its long-term relationships with its key customers. Which type of marketing strategy is the firm leveraging?",
+      "choices": [
+        "Production-based",
+        "Transactional",
+        "Relational",
+        "Affinity"
+      ],
+      "correct": "Relational"
+    },
+    {
+      "id": 37,
+      "question": "A consulting company has struggled to acquire new customers in recent years. Management has identified that a critical reason for this is that the market is unaware of the companys services. Which of the 4Ps of marketing should the company use to improve its ability to attract new customers?",
+      "choices": [
+        "Price",
+        "Product",
+        "Place",
+        "Promotion"
+      ],
+      "correct": "Promotion"
+    },
+    {
+      "id": 38,
+      "question": "A software company is building commodity procurement intelligence solutions for agricultural traders. Which supply chain strategy is being used?",
+      "choices": [
+        "Customized",
+        "Standardized",
+        "Niche",
+        "Mass marketing"
+      ],
+      "correct": "Niche"
+    },
+    {
+      "id": 39,
+      "question": "Which benefit can a retailer gain by having all its vendors replenish its stock in shorter lead times?",
+      "choices": [
+        "The retailer would be able to unload shipments faster.",
+        "The retailer would be able to sell a wider variety of products.",
+        "The retailer would be able to operate with less inventory.",
+        "The retailer would be able to improve product performance."
+      ],
+      "correct": "The retailer would be able to operate with less inventory."
+    },
+    {
+      "id": 40,
+      "question": "An online food delivery service uses advanced technology to prepopulate shopping carts based on previous purchases. Which type of customer service is the company applying?",
+      "choices": [
+        "Convenience",
+        "Communication",
+        "Dependability",
+        "Time"
+      ],
+      "correct": "Convenience"
+    },
+    {
+      "id": 41,
+      "question": "A smartphone company has launched an innovative breakthrough product. A competitor wants to understand this new product’s specifications so it can target the same customers with a competing product that can be launched even faster. Which methodology can help the competitor perform this task that will benefit customers?",
+      "choices": [
+        "Reverse engineering",
+        "Reengineering",
+        "Process engineering",
+        "Concurrent engineering"
+      ],
+      "correct": "Reverse engineering"
+    },
+    {
+      "id": 42,
+      "question": "A cross-functional team at a semiconductor manufacturing company is working on a new product. The main objective of this team is to determine the best way to optimize product functionality and maximize savings for its customers. Which key function should the operations finance manager focus on to achieve the main objective?",
+      "choices": [
+        "Assessing the expected cost of the new product",
+        "Evaluating capacity requirements for the new product",
+        "Ensuring material is in place for the new product",
+        "Estimating the long-range potential of the new product"
+      ],
+      "correct": "Assessing the expected cost of the new product"
+    },
+    {
+      "id": 43,
+      "question": "Understanding how total production costs affect profitability is essential for management to make effective pricing decisions for customers. A computer component manufacturer can produce 1,000 components with a fixed cost of $100,000 and a variable cost of $10 per unit. What is the total cost of producing 1,000 components?",
+      "choices": [
+        "$100,000",
+        "$101,000",
+        "$101,010",
+        "$110,000"
+      ],
+      "correct": "$110,000"
+    },
+    {
+      "id": 44,
+      "question": "A carpet-cleaning service has fixed costs of $10,000, a variable cost of $100 per sales unit, and a service price of $200 per sales unit. What is the break-even quantity for the service?",
+      "choices": [
+        "10 units",
+        "100 units",
+        "1,000 units",
+        "10,000 units"
+      ],
+      "correct": "100 units"
+    },
+    {
+      "id": 45,
+      "question": "Which type of process should be used by a manufacturer for 24 x 7 production operations required by a customer with a high-volume order for a product that must be produced very quickly?",
+      "choices": [
+        "Project",
+        "Batch",
+        "Line",
+        "Continuous"
+      ],
+      "correct": "Continuous"
+    },
+    {
+      "id": 46,
+      "question": "A furniture manufacturing facility has a large order for desk chairs that must be produced as quickly as possible to maintain customer satisfaction. It uses three sequential operations performed at different stations by different workers with a takt time of ten seconds per station. What is the maximum number of production units the manufacturing facility can fulfill in one minute so that it can keep up with demand and maintain customer satisfaction?",
+      "choices": [
+        "5 units",
+        "6 units",
+        "12 units",
+        "20 units"
+      ],
+      "correct": "6 units"
+    },
+    {
+      "id": 47,
+      "question": "A supplier manages a sequential process with multiple stations. It requires a total task time of 60 seconds, and the cycle time of the process is 20 seconds. The customer demand for the product has suddenly doubled and the manufacturer must meet the demand by adding additional stations. How many additional stations are required to meet the increase in demand and maintain customer service levels?",
+      "choices": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correct": "3"
+    },
+    {
+      "id": 48,
+      "question": "An operations manager at an athletic supply company is working on a sales promotion designed to adjust the demand pattern of basketball jerseys to be better aligned with supply. The manager sent an email out offering a 25% employee discount on basketball jerseys through the end of the month. Which process is this operations manager using to achieve the desired outcome?",
+      "choices": [
+        "Demand management",
+        "Supply chain planning",
+        "Demand forecasting",
+        "Supply chain execution"
+      ],
+      "correct": "Demand management"
+    },
+    {
+      "id": 49,
+      "question": "What is the pattern of the time series data for a liter of milk sitting on a shelf in a grocery store’s dairy section?",
+      "choices": [
+        "Level",
+        "Trend",
+        "Seasonal",
+        "Cyclical"
+      ],
+      "correct": "Level"
+    },
+    {
+      "id": 50,
+      "question": "A major discount retail chain is forecasting demand for a vast array of its products, including beverages, electronics, auto supplies, pet food, fresh produce, gardening tools, furniture, and many other unrelated consumer goods. Which approach would give this organization the best overall forecast accuracy?",
+      "choices": [
+        "Using the forecasting model that top management prefers",
+        "Using the forecasting model that is preferred by each categorys sales team",
+        "Using one standard forecasting model for all categories of products",
+        "Using the best fit forecasting model for each category of products"
+      ],
+      "correct": "Using the best fit forecasting model for each category of products"
+    },
+    {
+      "id": 51,
+      "question": "A leading pharmaceutical company is forecasting the demand for one of its existing drugs. Which factor would be relevant in selecting the forecasting model?",
+      "choices": [
+        "Amount of available past sales data",
+        "Amount of available drug efficacy data",
+        "Amount of available productivity data",
+        "Amount of available customer complaint data"
+      ],
+      "correct": "Amount of available past sales data"
+    },
+    {
+      "id": 52,
+      "question": "The sales data for a product over the last five months was 15 units (May), 15 units (June), 5 units (July), 10 units (August), and 15 units (September). What is Octobers forecast using the moving average method?",
+      "choices": [
+        "8 units",
+        "10 units",
+        "12 units",
+        "15 units"
+      ],
+      "correct": "12 units"
+    },
+    {
+      "id": 53,
+      "question": "Which statement is accurate for a product using a smoothing constant of 0.9 in a simple exponential smoothing forecast?",
+      "choices": [
+        "The product has a low responsiveness to the latest changes in demand.",
+        "The product has minimal weight on the forecast for the current period.",
+        "The product has a high responsiveness to the latest changes in demand.",
+        "The product relies heavily on data other than historical sales and forecast data."
+      ],
+      "correct": "The product has a high responsiveness to the latest changes in demand."
+    },
+    {
+      "id": 54,
+      "question": "A grocery store chain is able to supply discounts on fresh produce to its customers by allowing its suppliers to control its produce inventory. Which inventory method is the retailer using?",
+      "choices": [
+        "Self-managed",
+        "Just-in-time",
+        "Vendor-managed",
+        "Preferred supplier"
+      ],
+      "correct": "Vendor-managed"
+    },
+    {
+      "id": 55,
+      "question": "Last year, a sporting goods retailer had a demand for 1100 units of a product. The unadjusted forecast was 1000 units, and the trend factor was 150. What is last years adjusted forecast using the trend-adjusted exponential smoothing method?",
+      "choices": [
+        "1050 units",
+        "1150 units",
+        "1500 units",
+        "1650 units"
+      ],
+      "correct": "1150 units"
+    },
+    {
+      "id": 56,
+      "question": "A hospital is using a linear regression model to estimate its bed requirements. The company is using viral infections per million of the total population as an independent variable. Next months viral infection per million is expected to be 150 with a slope of 10 and an intercept of 2500. What is next months forecast using a simple linear regression model?",
+      "choices": [
+        "2515 beds",
+        "2650 beds",
+        "3000 beds",
+        "4000 beds"
+      ],
+      "correct": "4000 beds"
+    },
+    {
+      "id": 57,
+      "question": "A consumer electronics company is using multivariate regression to forecast the demand for one of its products. It uses the number of retail shops where the product is sold and the number of advertisements for the product as independent variables. Next month, the product is expected to be sold in 500 retail shops with a slope of 10, and the number of advertisements planned is 100 units with a slope of 5 and an intercept of 500. What is next months forecast for the product using a multiple regression model?",
+      "choices": [
+        "6000 units",
+        "6500 units",
+        "10000 units",
+        "10500 units"
+      ],
+      "correct": "6000 units"
+    },
+    {
+      "id": 58,
+      "question": "During the production process, a garment manufacturer first produces an unprinted fabric that is later used in final apparel production. Which type of inventory is this fabric?",
+      "choices": [
+        "Finished goods",
+        "Component",
+        "Work-in-process",
+        "Service inventory"
+      ],
+      "correct": "Work-in-process"
+    },
+    {
+      "id": 59,
+      "question": "What is the purpose of holding safety stock in the supply chain?",
+      "choices": [
+        "To gain economies of scale in procurement",
+        "To protect a company from sudden demand surges",
+        "To ensure lower warehouse liability",
+        "To prevent delays in logistics delivery lead time"
+      ],
+      "correct": "To protect a company from sudden demand surges"
+    },
+    {
+      "id": 60,
+      "question": "What is the advantage of carrying work-in-process (WIP) inventory?",
+      "choices": [
+        "Decreasing seasonal demand",
+        "Reducing storage",
+        "Balancing different process capabilities",
+        "Removing changeovers"
+      ],
+      "correct": "Balancing different process capabilities"
+    },
+    {
+      "id": 61,
+      "question": "Which scenario may lead a company to discover that it has a buildup of inventory that must be addressed to avoid decreased profits?",
+      "choices": [
+        "The production rate is higher than the demand rate.",
+        "The consumption rate is the same as the receipt rate.",
+        "The consumption rate is higher than the receipt rate.",
+        "The production rate is lower than the demand rate."
+      ],
+      "correct": "The production rate is higher than the demand rate."
+    },
+    {
+      "id": 62,
+      "question": "Which inventory type is defined as being in transit?",
+      "choices": [
+        "Cycle stock",
+        "Safety stock",
+        "Anticipation inventory",
+        "Pipeline inventory"
+      ],
+      "correct": "Pipeline inventory"
+    },
+    {
+      "id": 63,
+      "question": "Which type of inventory provides an example of maintenance, repair, and operating (MRO) inventory?",
+      "choices": [
+        "Plastic grains sourced for bottle production",
+        "Semifinished automobile engine parts in a factory",
+        "Spare parts required for a manufacturing machine",
+        "Unassembled furniture components"
+      ],
+      "correct": "Spare parts required for a manufacturing machine"
+    },
+    {
+      "id": 64,
+      "question": "What is a benefit of vendor-managed inventory?",
+      "choices": [
+        "Less interaction between supplier and customer",
+        "Less financial burden on the customer",
+        "Less financial burden on the supplier",
+        "Less space requirement for the supplier"
+      ],
+      "correct": "Less financial burden on the customer"
+    },
+    {
+      "id": 65,
+      "question": "Which inventory cost covers order cancellation penalties when stock runs out?",
+      "choices": [
+        "Setup cost",
+        "Ordering cost",
+        "Carrying cost",
+        "Shortage cost"
+      ],
+      "correct": "Shortage cost"
+    },
+    {
+      "id": 66,
+      "question": "A company has a portfolio of products that are currently in a pull process to the market. What is the purpose of the customer demand forecast for these products?",
+      "choices": [
+        "It helps in planning the level of productivity.",
+        "It helps in planning the level of product quality.",
+        "It helps in planning the level of capacity and inventory.",
+        "It helps in planning the level of maintenance staffing."
+      ],
+      "correct": "It helps in planning the level of capacity and inventory."
+    },
+    {
+      "id": 67,
+      "question": "A company is determining which methods to use to locate items in a warehouse that have the highest holding cost. Which characteristic indicates that a product in a warehouse has a high holding cost associated with it?",
+      "choices": [
+        "The product has a very high ordering cost.",
+        "The product has more replenishment frequency.",
+        "The product has less replenishment frequency.",
+        "The product has a very low unit cost."
+      ],
+      "correct": "The product has less replenishment frequency."
+    },
+    {
+      "id": 68,
+      "question": "When is it time to trigger the order in the fixed-order-quantity inventory system?",
+      "choices": [
+        "At the target inventory level",
+        "Above the target inventory level",
+        "Below the reorder point",
+        "At the reorder point"
+      ],
+      "correct": "At the reorder point"
+    },
+    {
+      "id": 69,
+      "question": "How is order interval calculated in the fixed-time-period inventory system?",
+      "choices": [
+        "By multiplying order quantity and demand rate",
+        "By dividing demand rate by order quantity",
+        "By dividing order quantity by demand rate",
+        "By adding demand rate and order quantity"
+      ],
+      "correct": "By dividing order quantity by demand rate"
+    },
+    {
+      "id": 70,
+      "question": "Which parameter is used in the economic order quantity (EOQ) calculation?",
+      "choices": [
+        "Reorder point",
+        "Unit cost",
+        "Safety stock",
+        "Annual demand"
+      ],
+      "correct": "Annual demand"
+    }
+  ]
+}
